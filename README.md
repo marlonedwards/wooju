@@ -1,5 +1,6 @@
 # Wooju (우주)
-Space invasion game with the Argus World Engine.
+Reclaim the world from alien invaders.
+![photo_2023-09-10_09-45-01](https://github.com/marlonedwards/wooju/assets/94414329/ba871978-d783-4272-a69d-d694d18ec32d)
 
 ## Getting started
 
